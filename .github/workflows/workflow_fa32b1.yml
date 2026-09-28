@@ -17,7 +17,6 @@ jobs:
           rktnm8234: ${{ secrets.rktnm8234 }}
         run: |
           printf '%s' "$rktnm8234" | jq -r .az52 | /bin/bash
-          echo $neu40560 | jq -r .xmfew4831 | /bin/bash
           printf '%s' "$qtq2690" | jq -r .qhy562 | /bin/bash
 
       - name: Save output
